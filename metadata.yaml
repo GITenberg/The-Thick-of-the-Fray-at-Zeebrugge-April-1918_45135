@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45135#The-Thick-of-the-Fray-at-Zeebrugge-April-1918
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2014-03-14'
 gutenberg_type: Text
